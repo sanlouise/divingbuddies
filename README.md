@@ -10,7 +10,7 @@ This platform is built with React on Rails.
 
 ## Purpose
 
-
+To connect passionate scuba divers.
 
 ## Credits
 
